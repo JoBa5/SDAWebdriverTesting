@@ -70,7 +70,7 @@ public class FisrtTest {
 
         /*
         Napisz test:
-        1.Wejdź na sstronę: https//www.bbc.com.
+        1.Wejdź na sstronę: https//www.bbc.com
         2.Wypisz w konsoli ilość dostępnych linków na stronie.
         3. Wypisz w konsoli ilość dostępnych obrazków na stronie.
             */
